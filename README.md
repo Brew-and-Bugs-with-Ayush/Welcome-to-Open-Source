@@ -5492,10 +5492,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <tr>
             <td align="center">
                 <a href="https://github.com/Brew-and-Bugs-with-Ayush">
-                    <img src="https://avatars.githubusercontent.com/u/121883530?s=400
-                    u=41c3706ce7868b65ad0d6a30d8fbf8f1641bc71b&v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/121883530?s=400" width="100px;"
                         alt="Ayush Gupta" />
                     <br />
                     <sub>
@@ -5503,5 +5503,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            </tr>
     </tbody>
 </table>
